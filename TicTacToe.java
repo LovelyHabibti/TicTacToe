@@ -120,7 +120,7 @@ public class TicTacToe extends Frame implements ActionListener {
     }
 		
     /**
-     * Fenster wird erstellt und die Größe gesetzt
+     * Methode erstellt Fenster und die Größe wird gesetzt
      * 
      * @param args[] 
      */	
